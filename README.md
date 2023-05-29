@@ -4,8 +4,6 @@ I'm a hardware engineer passionate about system design. Keen on learning new tec
 
 Skills: High Speed Board Design | PCB | Signal Integrity | Power Integrity | DFM-DFT |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiba6563&show_icons=true)  
-
 - 🌱 I’m currently learning Verilog, VHDL and Python 
 - 📫 How to reach me: tomykishore@gmail.com 
 
